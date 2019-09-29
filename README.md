@@ -62,7 +62,11 @@ The humanoid robot is made by using 3D printing so it requires 3D printer to pri
 # Making of project:
 The robot was made using 3D printer and uses STL parts for 3D printing.The parts can be found at:
 http://inmoov.fr/inmoov-stl-parts-viewer/
-and some parts needs to be upgraded according to your choice.
+and some parts needs to be upgraded according to your requirement.
+
+## The working of the robot is displayed in the above available video.
+https://github.com/kamlesh577/Humanoid-Robot/blob/master/biceps_working.mp4
+
 # Completed project
 
 
