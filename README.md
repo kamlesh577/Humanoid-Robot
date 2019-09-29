@@ -16,7 +16,9 @@ http://inmoov.fr/youvideo/
 3D printing is any of various processes in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together (such as liquid molecules or powder grains being fused together), typically layer by layer.3D printed objects can have a very complex shape or geometry and are always produced starting from a digital 3D model or a CAD file.
 
 ## 3D printer(ANET A8)
-![anet-a8-1c](https://user-images.githubusercontent.com/38343027/65830333-1d0b5b00-e2cc-11e9-8444-1e33ed706b45.jpg)
+
+![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/38343027/65832293-4da8c000-e2df-11e9-9b95-5ef758a50bfe.jpg)
+
 Anet A8 3D Printer  DIY Printer is a useful yet affordable 3D printer for beginners and enthusiasts alike with its capable extruder and hotbed.  It is made by using Acrylic or Aluminium Composite (Aluminium surface with plastic structure) 
 
 • XY Axis Accuracy: 0.012mm Z-Axis Accuracy: 0.004mm , 
@@ -65,8 +67,8 @@ and some parts needs to be upgraded according to your choice.
 
 
 
+![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/38343027/65832206-58af2080-e2de-11e9-936c-2ad8c7163dbf.jpg)
 
-![imagert](https://user-images.githubusercontent.com/38343027/65832120-c60e8180-e2dd-11e9-98d8-a9ee40dd6ec3.jpg)
 
 # References:
 
