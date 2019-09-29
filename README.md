@@ -63,9 +63,19 @@ The humanoid robot is made by using 3D printing so it requires 3D printer to pri
 The robot was made using 3D printer and uses STL parts for 3D printing.The parts can be found at:
 http://inmoov.fr/inmoov-stl-parts-viewer/
 and some parts needs to be upgraded according to your requirement.
+## The working of the robot is displayed in the below video:
 
-## The working of the robot is displayed in the above available video.
+## Biceps woking Video
+
 https://github.com/kamlesh577/Humanoid-Robot/blob/master/biceps_working.mp4
+
+## Finger Working Video
+
+https://github.com/kamlesh577/Humanoid-Robot/blob/master/finger.mp4
+
+## Shoulder Working
+
+https://github.com/kamlesh577/Humanoid-Robot/blob/master/shoulder_working.mp4
 
 # Completed project
 
