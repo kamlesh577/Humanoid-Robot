@@ -39,14 +39,46 @@ Anet A8 3D Printer  DIY Printer is a useful yet affordable 3D printer for beginn
 The raw material that keeps your printer printing is called filament. There’s an abundance of 3D printer filament choices available to you. Here, we’ll cover the common “daily driver” filaments like PLA and ABS.
 
 ## PLA
-Poly(lactic acid) or poly lactic acid or polylactide (PLA) is a biodegradable and bioactive thermoplastic aliphatic polyester derived from renewable biomass, typically from fermented plant starch such as from corn, cassava, sugar cane or sugar beet pulp.  ![2052425b5f](https://user-images.githubusercontent.com/38343027/65830452-2cd76f00-e2cd-11e9-9af3-72d297d373c5.jpg)
+Poly(lactic acid) or poly lactic acid or polylactide (PLA) is a biodegradable and bioactive thermoplastic aliphatic polyester derived from renewable biomass, typically from fermented plant starch such as from corn, cassava, sugar cane or sugar beet pulp.  
+![2052425b5f](https://user-images.githubusercontent.com/38343027/65830452-2cd76f00-e2cd-11e9-9af3-72d297d373c5.jpg)
+
+# Requirement and Specifications 
+The humanoid robot is made by using 3D printing so it requires 3D printer to print files.
+    • 3D Printer
+    
+    • Stepper motor
+    
+    • Arduino
+    
+    •  motor controllers
+    
+    • Raspberry pi , Pi-camera
+    
+    • PLA
+# Specifications:
+    • It has been designed as a torque-controlled robot with 12 DOF, with motors directly connected to the joint with a low gear ratio. 'This configuration allows for compliant motion and good back-variability without using joint torque sensors.
+    
+    • All in all, the lower body weighs just '38.795kg, slightly under the estimated 40kg used in the motor selection and simulation. 
+    
+    • It will be able to perform basic human tasks like walking or moving.
+    
+    • Able to recognize object to walk without touching them.
 
 
+# References:
 
-
-
-
-
+    • tinkercad.com
+    
+    • inmoov.fr
+   
+    • GitHub.com
+    
+    • autodesk.com
+    
+    • 3dprintinghub.com
+    
+    • amazon.com
+    
 
 
 
