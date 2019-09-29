@@ -57,7 +57,17 @@ The humanoid robot is made by using 3D printing so it requires 3D printer to pri
     
     • Able to recognize object to walk without touching them.
     
-#Making of project:
+# Making of project:
+The robot was made using 3D printer and uses STL parts for 3D printing.The parts can be found at:
+http://inmoov.fr/inmoov-stl-parts-viewer/
+and some parts needs to be upgraded according to your choice.
+# Completed project
+
+
+
+
+![imagert](https://user-images.githubusercontent.com/38343027/65832120-c60e8180-e2dd-11e9-98d8-a9ee40dd6ec3.jpg)
+
 # References:
 
 • tinkercad.com
