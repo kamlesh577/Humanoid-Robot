@@ -5,16 +5,9 @@ As we know that mobile robots has gain a lot of attention in the last few years.
 # Objective
 1. To propse an integrated robot framework that allows navigation in a human populated environment.
 2. To examine participants behavoir in human robot motion for different robot embodiments by scheming experiments.
-
-
-
 ## Inmoov Humanoid Robot(http://inmoov.fr/)
-
-
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/38343027/65829915-07943200-e2c8-11e9-82ca-500986895927.jpg)
-
 InMoov is a humanoid robot, constructed out of 3D printable plastic body components, and controlled by Arduino microcontrollers. InMoov is a robot developed for artistic purposes by French sculptor Gael Langevin in September 2011 (The first blueprint files were published in January 2012 on Thingiverse) Its peculiarity is that it is reproducible with a simple 3D printer small format (12cm3) and its files are under Creative Commons license (CC-BY-NC). The project is a platform for development and robot learning. On this basis and through this concept there were developed different iterations.
-
 ## Inmoov youtube videos:
 https://www.youtube.com/watch?v=2sZOyCBbows
 
@@ -26,15 +19,15 @@ http://inmoov.fr/youvideo/
 ![anet-a8-1c](https://user-images.githubusercontent.com/38343027/65830333-1d0b5b00-e2cc-11e9-8444-1e33ed706b45.jpg)
 Anet A8 3D Printer  DIY Printer is a useful yet affordable 3D printer for beginners and enthusiasts alike with its capable extruder and hotbed.  It is made by using Acrylic or Aluminium Composite (Aluminium surface with plastic structure) 
 
-    • XY Axis Accuracy: 0.012mm Z-Axis Accuracy: 0.004mm , 
+• XY Axis Accuracy: 0.012mm Z-Axis Accuracy: 0.004mm , 
     
-    •  Max Print Size: 220x220x240mm , 
+•  Max Print Size: 220x220x240mm , 
     
-    • Heating Plate Material: Aluminium 
+• Heating Plate Material: Aluminium 
     
-    • Printable Materials: PLA, ABS, TPU, Wood Poly, PVA, PP, Nylon, Luminescent 
+• Printable Materials: PLA, ABS, TPU, Wood Poly, PVA, PP, Nylon, Luminescent 
     
-    • Filament Diameter: 1.75mm .
+• Filament Diameter: 1.75mm .
 ## Filaments
 The raw material that keeps your printer printing is called filament. There’s an abundance of 3D printer filament choices available to you. Here, we’ll cover the common “daily driver” filaments like PLA and ABS.
 
@@ -44,17 +37,17 @@ Poly(lactic acid) or poly lactic acid or polylactide (PLA) is a biodegradable an
 
 # Requirement and Specifications 
 The humanoid robot is made by using 3D printing so it requires 3D printer to print files.
-    • 3D Printer
+• 3D Printer
     
-    • Stepper motor
+• Stepper motor
     
-    • Arduino
+• Arduino
     
-    •  motor controllers
+•  motor controllers
     
-    • Raspberry pi , Pi-camera
+• Raspberry pi , Pi-camera
     
-    • PLA
+• PLA
 # Specifications:
     • It has been designed as a torque-controlled robot with 12 DOF, with motors directly connected to the joint with a low gear ratio. 'This configuration allows for compliant motion and good back-variability without using joint torque sensors.
     
@@ -63,21 +56,21 @@ The humanoid robot is made by using 3D printing so it requires 3D printer to pri
     • It will be able to perform basic human tasks like walking or moving.
     
     • Able to recognize object to walk without touching them.
-
-
+    
+#Making of project:
 # References:
 
-    • tinkercad.com
+• tinkercad.com
     
-    • inmoov.fr
+• inmoov.fr
    
-    • GitHub.com
+• GitHub.com
     
-    • autodesk.com
+• autodesk.com
     
-    • 3dprintinghub.com
+• 3dprintinghub.com
     
-    • amazon.com
+• amazon.com
     
 
 
