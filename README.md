@@ -97,7 +97,7 @@ https://github.com/kamlesh577/Humanoid-Robot/blob/master/shoulder_working.mp4
     
 • 3dprintinghub.com
     
-• amazon.com
+
     
 
 
