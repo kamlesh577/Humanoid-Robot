@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=2sZOyCBbows
 
 http://inmoov.fr/youvideo/
 ## Methodology
-3D printing is any of various processes in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together (such as liquid molecules or powder grains being fused together), typically layer by layer.3D printed objects can have a very complex shape or geometry and are always produced starting from a digital 3D model or a CAD file.
+3D printing is a process in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together (such as liquid molecules or powder grains being fused together), typically layer by layer.3D printed objects can have a very complex shape or geometry and are always produced starting from a digital 3D model or a CAD file.
 
 ## 3D printer(ANET A8)
 
