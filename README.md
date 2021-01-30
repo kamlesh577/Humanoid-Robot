@@ -1,5 +1,5 @@
 # Humanoid-Robot
-A humanoid robot is a robot with body shape built to resemble the human body. The  functional purposes is to  interact with human tools and environments, for experimental purposes, such as the study of  locomotion, or for other human related activities
+A humanoid robot is a robot with body shape built to resemble the human body. The  functional purposes is to  interact with human tools and environments, for experimental purposes, such as the study of  locomotion, or for other human related activities.
 
 As we know that mobile robots has gain a lot of attention in the last few years.This increasing interest is motivated by the numerous useful task that a robot could perform for humans in our daily lives.To successfully perform such tasks the robot must guaranteethe safety of surrounding humans,thisraises a new challenge in term of researchwhere the concept of safe navigation attains a wider interpretation and aims to facilitatehuman-robot co-existence.
 # Objective
